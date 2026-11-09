@@ -2,8 +2,8 @@
 My first repository
 
 ## My Favorite Series
-**Title: ** Spider Into The Spider-Verse
-*Genre: * Superhero / Action‑Adventure
+Spider Into The Spider-Verse
+Superhero / Action‑Adventure
 
 ### Why I like it
 - Great story
@@ -12,4 +12,4 @@ My first repository
 
 > "It’s a leap of faith"
 
-[Watch trailer](https://www.youtube.com)
+[Watch trailer]([https://www.youtube.com](https://www.youtube.com/watch?v=g4Hbz2jLxvQ))
