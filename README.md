@@ -11,4 +11,4 @@ My first repository
 
 > "It’s a leap of faith"
 
-[Watch trailer]([https://www.youtube.com](https://www.youtube.com/watch?v=g4Hbz2jLxvQ))
+[Watch trailer](https://www.youtube.com/watch?v=shW9i6k8cB0)
