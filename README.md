@@ -2,8 +2,8 @@
 My first repository
 
 ## My Favorite Series
-> Spiderman Into The Spider-Verse
-> Superhero / Action‑Adventure
+Spiderman Into The Spider-Verse
+Superhero / Action‑Adventure
 
 ### Why I like it
 - Great story
